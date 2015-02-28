@@ -1,0 +1,20 @@
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes.dex : \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/ansca/corona/R$drawable.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/ansca/corona/R$raw.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/ansca/corona/R.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/BuildConfig.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/CoronaApplication$1.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/CoronaApplication$CoronaRuntimeEventHandler.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/CoronaApplication.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/R$attr.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/R$drawable.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/R$raw.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/com/mycompany/app/R.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/plugin/library/BuildConfig.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/plugin/library/LuaLoader$1.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/plugin/library/LuaLoader$GetAllContactsWrapper.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/classes/plugin/library/LuaLoader.class \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/dexedLibs/classes-9023e61488191619fca3c4486ebacb18.jar \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/dexedLibs/JNLua-b11eae511c170ddd0d41760fe8506a8a.jar \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/dexedLibs/network-c73d956bee50e67e52636c67ae4c722b.jar \
+/Volumes/Data/Work/CHH/corona_plugin/App/android/bin/dexedLibs/Corona-2df7050299f0a2186de60f3be677bf33.jar \

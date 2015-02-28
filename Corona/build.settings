@@ -1,0 +1,53 @@
+settings =
+{
+	--[[
+	orientation = {
+		default = "portrait", 
+		supported = { "portrait", },
+		-- supported = { "landscapeLeft", "landscapeRight" },
+		-- supported = { "landscapeLeft", "landscapeRight", "portrait", "portraitUpsideDown", },
+	},
+	--]]
+
+	iphone =
+	{
+		plist =
+		{
+			-- UIApplicationExitsOnSuspend = true, -- default is false
+			CFBundleIconFile = "Icon.png",
+			CFBundleIconFiles =
+			{
+				"Icon.png", 
+				"Icon@2x.png", 
+				"Icon-60.png",
+				"Icon-60@2x.png",
+				"Icon-60@3x.png",
+				"Icon-72.png", 
+				"Icon-72@2x.png",
+				"Icon-76.png",
+				"Icon-76@2x.png", 
+				"Icon-Small.png", 
+				"Icon-Small@2x.png",
+				"Icon-Small@3x.png",
+				"Icon-Small-40.png",
+				"Icon-Small-40@2x.png",
+				"Icon-Small-50.png", 
+				"Icon-Small-50@2x.png",
+			},
+		},
+	},
+	android =
+	{
+		versionCode = "1",
+		usesPermissions = 
+		{
+			"android.permission.INTERNET",
+			"android.permission.WRITE_EXTERNAL_STORAGE",
+			"android.permission.ACCESS_FINE_LOCATION",
+			"android.permission.ACCESS_COARSE_LOCATION",
+			"android.permission.READ_CONTACTS",
+			"android.permission.GET_ACCOUNTS",
+			"android.permission.READ_PHONE_STATE",
+		},
+	}
+}
